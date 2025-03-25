@@ -1,0 +1,11 @@
+.logo{
+    color: blue;
+    height: 100px;
+    width: 100%;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+}
+body{
+    text-align: center;
+}
