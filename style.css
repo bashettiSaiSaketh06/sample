@@ -1,11 +1,73 @@
-.logo{
-    color: blue;
+.header
+{
+    height: auto;
+    width: auto;
+    border: 1px solid black;
+}
+.logoImage
+{
     height: 100px;
+    width: 100px;
+}
+.homePage1
+{
+    border: 1px solid red;
+    height: 500px;
+    width: 500px;
+}
+.homePageTab2Content
+{
+    border: 1px solid blue;
+    height: 230px;
+    width: 500px;
+}
+.homePageProductTab
+{
+    border: 1px solid green;
+    height: 1020px;
     width: 100%;
-    border: 1px;
-    border-style: solid;
+}
+.homePageProductTabproduct
+{
+    border: 1px solid yellow;
+    width: 100px;
+    height: 100px;
+}
+.poster
+{
+    border: 1px solid violet;
+    height: 500px;
+    width: 100%;
+}
+.homePageGallery
+{
+    border: 1px solid;
+    height: 300px;
+    width: 100%;
     text-align: center;
 }
-body{
+.FooterAboutUs
+{
+    border: 1px solid yellowgreen;
+    height: 100px;
+    width: 100px;
+}
+.FootercontactUs
+{
+    border: 1px solid yellowgreen;
+    height: 100px;
+    width: 100px;
+}
+.footerExternalLinks
+{
+    border: 1px solid yellowgreen;
+    height: 100px;
+    width: 100px;
+}
+.CopyRights
+{
+    border: 1px solid;
+    width: 100%;
+    height: 20px;
     text-align: center;
 }
