@@ -9,6 +9,26 @@
     height: 100px;
     width: 100px;
 }
+.homePageName
+{
+    position: absolute;
+    top: 70px;
+    left: 650px;
+    text-align: center;
+}
+
+.homePageHomeTab
+{
+    border: 0.5px solid red;
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
 .homePage1
 {
     border: 1px solid red;
