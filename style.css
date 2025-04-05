@@ -6,52 +6,108 @@
 }
 .logoImage
 {
-    height: 100px;
+    height: 125px;
     width: 100px;
+}
+.logoTag
+{
+    position: absolute;
+    top: 95px;
+    left: 15px;
 }
 .homePageName
 {
     position: absolute;
-    top: 70px;
+    top: 30px;
     left: 650px;
     text-align: center;
+    font-size: 50px;
+}
+.homePageTabs
+{
+    height: auto;
+    width: auto;
+    font-size: 25px;
 }
 
 .homePageHomeTab
 {
-    border: 0.5px solid red;
-    height: auto;
-    width: auto;
     position: absolute;
     top: 100px;
-    left: 200px;
-    font-size: 20px;
+    left: 300px;
     text-decoration: underline;
 }
-
+.homePageProductsTab
+{
+    position: absolute;
+    top: 100px;
+    left: 450px;
+    text-decoration: underline;
+}
+.homePageAboutUsTab
+{
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    text-decoration: underline;
+}
+.homePageContactUsTab
+{
+    position: absolute;
+    top: 100px;
+    left: 850px;
+    text-decoration: underline;
+}
+.homePagePortfolioTab
+{
+    position: absolute;
+    top: 100px;
+    left: 1070px;
+    text-decoration: underline;
+}
+.homepageTab
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 550px;
+}
 .homePage1
 {
     border: 1px solid red;
-    height: 500px;
-    width: 500px;
+    height: 525px;
+    width: 750px;
+    margin-top: 25px;
+    position: absolute;
+    float: left;
+    clear: both;
+
 }
 .homePageTab2Content
 {
     border: 1px solid blue;
-    height: 230px;
-    width: 500px;
+    height: 500px;
+    width: 750px;
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 25px;
+    position: relative;
+    float: right;
+    clear: both;
 }
 .homePageProductTab
 {
     border: 1px solid green;
-    height: 1020px;
+    height: 150px;
     width: 100%;
+    margin-top: 10px;
 }
 .homePageProductTabproduct
 {
     border: 1px solid yellow;
-    width: 100px;
+    width: 128px;
     height: 100px;
+    float: left;
+    margin: 10px;
 }
 .poster
 {
@@ -66,23 +122,33 @@
     width: 100%;
     text-align: center;
 }
+.footer
+{
+    border: 1px solid red;
+    width: 100%;
+    height: 520px;
+    margin-top: 10px;
+}
 .FooterAboutUs
 {
     border: 1px solid yellowgreen;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
+    float: left;
 }
 .FootercontactUs
 {
     border: 1px solid yellowgreen;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
+    float: left;
 }
 .footerExternalLinks
 {
     border: 1px solid yellowgreen;
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
+    float: left;
 }
 .CopyRights
 {
