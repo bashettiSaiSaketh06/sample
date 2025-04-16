@@ -108,6 +108,8 @@
     height: 100px;
     float: left;
     margin: 10px;
+    text-align: center;
+    padding-top: 5px;
 }
 .poster
 {
@@ -133,22 +135,25 @@
 {
     border: 1px solid yellowgreen;
     height: 500px;
-    width: 500px;
+    width: 495px;
     float: left;
+    margin: 2.5px;
 }
 .FootercontactUs
 {
     border: 1px solid yellowgreen;
     height: 500px;
-    width: 500px;
+    width: 495px;
     float: left;
+    margin: 2.5px;
 }
 .footerExternalLinks
 {
     border: 1px solid yellowgreen;
     height: 500px;
-    width: 500px;
+    width: 495px;
     float: left;
+    margin: 2.5px;
 }
 .CopyRights
 {
