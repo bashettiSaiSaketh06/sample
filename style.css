@@ -36,6 +36,7 @@
     top: 100px;
     left: 300px;
     text-decoration: underline;
+    color: blueviolet;
 }
 .homePageProductsTab
 {
@@ -43,12 +44,14 @@
     top: 100px;
     left: 450px;
     text-decoration: underline;
+    color: blueviolet;
 }
 .homePageAboutUsTab
 {
     position: absolute;
     top: 100px;
     left: 650px;
+    color: blueviolet;
     text-decoration: underline;
 }
 .homePageContactUsTab
@@ -56,6 +59,7 @@
     position: absolute;
     top: 100px;
     left: 850px;
+    color: blueviolet;
     text-decoration: underline;
 }
 .homePagePortfolioTab
@@ -63,7 +67,14 @@
     position: absolute;
     top: 100px;
     left: 1070px;
+    color: blueviolet;
     text-decoration: underline;
+}
+.homePagePoster
+{
+    border: 0.5px solid;
+    width: 100%;
+    height: 500px;
 }
 .homepageTab
 {
@@ -97,7 +108,7 @@
 .homePageProductTab
 {
     border: 1px solid green;
-    height: 150px;
+    height: 170px;
     width: 100%;
     margin-top: 10px;
 }
@@ -105,11 +116,17 @@
 {
     border: 1px solid yellow;
     width: 128px;
-    height: 100px;
+    height: 150px;
     float: left;
     margin: 10px;
     text-align: center;
-    padding-top: 5px;
+}
+.homePageProductImage
+{
+    border: 1px solid yellow;
+    width: 128px;
+    height: 100px;
+    text-align: center;
 }
 .poster
 {
@@ -120,9 +137,16 @@
 .homePageGallery
 {
     border: 1px solid;
-    height: 300px;
+    height: 200px;
     width: 100%;
     text-align: center;
+    font-size: 25px;
+}
+.homePageGalleryImages
+{
+    width: 120px;
+    height: 145px;
+    margin: 5px;
 }
 .footer
 {
